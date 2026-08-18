@@ -9,7 +9,6 @@ MOVIES = [
     {"title": "The Odyssey", "showtime": "13:00", "studio": "Studio 1"},
     {"title": "Spider-Man: Brand New Day", "showtime": "15:00", "studio": "Studio 2"},
     {"title": "The Matrix Resurrections", "showtime": "17:00", "studio": "Studio 3"},
-    {"title": "Dune", "showtime": "19:00", "studio": "Studio 4"},
 ]
 
 @app.route("/")
